@@ -3,6 +3,8 @@
 
   Minimal 360 photo viewer built with [three.js](https://github.com/mrdoob/three.js).
 
+  Live example: http://developer.littlstar.com/slant-photo/.
+
 ## Example
 
 ```js
