@@ -4,5 +4,21 @@
   "description": "Simple 360 photo viewer",
   "scripts": [
     "index.js"
-  ]
+  ],
+  "dependencies": {
+    "code42day/dataset": "0.3.0",
+    "component/closest": "0.1.4",
+    "component/delegate": "0.2.3",
+    "component/emitter": "1.1.3",
+    "component/event": "0.1.4",
+    "component/events": "1.0.9",
+    "component/matches-selector": "0.1.5",
+    "component/query": "0.0.3",
+    "component/raf": "1.2.0",
+    "components/three.js": "0.0.69",
+    "guille/ms.js": "0.6.1",
+    "jkroso/computed-style": "0.1.0",
+    "matthewmueller/extend.js": "0.0.2",
+    "visionmedia/debug": "2.1.1"
+  }
 }

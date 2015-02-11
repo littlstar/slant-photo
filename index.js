@@ -3,14 +3,14 @@
  * Module dependencies.
  */
 
-var debug = require('visionmedia/debug')('slant-photo');
-var raf = require('component/raf');
-var Events = require('component/events');
-var dataset = require('code42day/dataset');
-var three = require('components/three.js');
-var extend = require('matthewmueller/extend.js');
-var computed = require('jkroso/computed-style');
-var Emitter = require('component/emitter');
+var debug = require('debug')('slant-photo');
+var raf = require('raf');
+var Events = require('events');
+var dataset = require('dataset');
+var three = require('three.js');
+var extend = require('extend.js');
+var computed = require('computed-style');
+var Emitter = require('emitter');
 
 //
 // TODO:
