@@ -1,0 +1,8 @@
+{
+  "name": "slant-photo",
+  "version": "0.0.0",
+  "description": "Simple 360 photo viewer",
+  "scripts": [
+    "index.js"
+  ]
+}
